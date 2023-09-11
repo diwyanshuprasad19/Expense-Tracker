@@ -1,0 +1,10 @@
+Live website - https://64fb45485e5dc318f97bbe15--soft-frangipane-1bbe67.netlify.app/
+
+Description-The responsive expense tracker, built with React, simplifies personal finance management. It features an "Add Expense" function for recording expenditures, including timestamps
+and the spender's name for transparency. Users can explore their financial history through a chart interface, allowing them to select yearly views to gain insights into their 
+annual spending trends. Additionally, the app provides informative visual aids, such as charts or graphs, to illustrate the number of expenses incurred each month.
+This graphical representation empowers users to quickly assess monthly spending patterns, aiding in more effective budgeting and financial planning. Leveraging React's 
+adaptability and responsiveness, this expense tracker offers a user-friendly platform for overseeing expenses, analyzing spending habits, and making informed financial decisions.
+
+
+Technology Stack: React, Responsive
